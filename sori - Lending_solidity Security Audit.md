@@ -59,7 +59,7 @@
 
 | # | ID | Title | Severity |
 | --- | --- | --- | --- |
-| 1 | `Lending-sori-001` |  |  |
+| 1 | `Lending-sori-001` | Overwriting deposit asset value in multiple deposits may lead to lost of user assets | Critical |
 
 ## #1 `Lending-sori-001` Overwriting deposit asset value in multiple deposits may lead to lost of user assets
 
